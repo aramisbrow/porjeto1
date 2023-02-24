@@ -104,7 +104,7 @@ body{
 }
 
 .imagem{
-    width: 50%;
+    width: auto;
 }
 .rodape{
     color: var(--cor-primaria);
